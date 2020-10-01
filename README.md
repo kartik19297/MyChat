@@ -1,5 +1,5 @@
 # MyChat
-* It's a simple group chat application.
+* It's a simple group chat application, built with firebase realtime database.
 * You just have to sign-in and start chatting.
 * You can also share images and access all your chats offline too, by swiping left or right you can delete messages.
 
